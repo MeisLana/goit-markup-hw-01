@@ -1,6 +1,7 @@
 /* Base styles */
 body {
-    background: #FFF;
+    background: #FFF; 
+    color: var(--NAVY-BLUE, #2E2F42);
 }
 
 /* Header section */
